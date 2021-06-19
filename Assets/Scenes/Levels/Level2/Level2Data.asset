@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelId: 2
   levelNumber: 2
-  levelPassed: 1
-  passTime: 5
+  levelPassed: 0
+  passTime: 0
